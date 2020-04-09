@@ -30,3 +30,4 @@ def fact_2(n):
 
 for el in fact_2(n):
     print(el)
+
