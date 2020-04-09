@@ -28,6 +28,6 @@ def fact_2(n):
         factorial = reduce(lambda x, y: x * y, fact_list_subt)
         yield factorial
 
+
 for el in fact_2(n):
     print(el)
-
